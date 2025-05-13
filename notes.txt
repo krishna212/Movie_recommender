@@ -1,0 +1,4 @@
+
+Props in react should be immutable (don't change values within component)
+
+State is also immutable like only change it using the setter function
