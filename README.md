@@ -13,7 +13,6 @@ A sleek, responsive movie recommendation web app built using **React** and power
 - ⚛️ Built with **React + Vite** for fast performance
 - 🎨 Styled with **Tailwind CSS**
 - ⏳ Debounced search for optimized performance
-- 
 ---
 
 ## 🛠 Tech Stack
