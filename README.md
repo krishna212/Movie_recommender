@@ -33,12 +33,12 @@ A sleek, responsive movie recommendation web app built using **React** and power
 git clone https://github.com/krishna212/Movie_recommender.git
 cd Movie_recommender
 ```
-2. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 npm install
 ```
-3. Start Development Server
+### 3. Start Development Server
 
 ```bash
 npm run dev
